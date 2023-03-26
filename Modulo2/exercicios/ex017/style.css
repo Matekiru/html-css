@@ -1,0 +1,33 @@
+   @charset "UTF-8";
+
+   body{
+
+      font-family: 'Work Sans, Courier New', Courier, monospace ;
+      /* Medidas Absolutas
+
+      cm, mm, in, px, pt,pc
+
+      Medidas Relativas:
+      
+      em, ex, rem, vw,vh, %
+
+      As recomendas sao: px e em 16px = 1em
+
+      */
+
+      font-size: 1em ;
+      /* Weight= peso whith=largura height=altura */
+      font-weight: lighter;
+      font-style: italic ;
+      text-decoration: underline;
+      /*shrot hand = short hand font : font style -> font weight -> font size -> font family */
+
+    
+   }
+   h1{
+    
+    font: italic 3em sans-serif ;
+    
+   }
+
+   

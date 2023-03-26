@@ -1,0 +1,88 @@
+
+header{
+
+    background-image: linear-gradient(to bottom,rgb(5, 31, 5), rgb(22, 126, 22), rgb(57, 155, 57)) ;
+    text-align: center;
+    margin: auto;
+    padding: 1px;
+    
+   
+}
+header >h1{
+    font-size: 35px;
+}
+header >h2{
+    padding: 10px;
+}
+.cabecalho{
+    color: white;
+    font-family: monospace;
+}
+header > nav{
+    color: white;
+    text-align: left;
+    
+}
+nav > a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+body{
+    background-color: rgba(180, 245, 167, 0.733);
+}
+main{
+    background-color: white;
+    text-align: center;
+     margin: auto;
+     width: 800px;
+     height: 100%;
+     
+   
+}
+.main{
+    text-align: left;
+    padding: 15px;
+}
+main > h1,h2{
+    color: green;
+}
+aside{
+    color: white;
+}
+.extra{ 
+    
+    background-color: rgba(37, 87, 37, 0.788);
+    color: white;
+    border: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+#extra{
+    background-color: rgba(128, 235, 182, 0.767);
+    width: 700px;
+     margin: auto;
+}
+footer{
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+}
+ul{
+    text-align: left;
+}
+p{
+    padding: 5px;
+    border: 5px;
+}
+iframe{
+    color: rgb(3, 65, 3);
+    border: 10px;
+}
+.video{
+    background-color: rgb(9, 70, 9);
+    
+}
+
+  

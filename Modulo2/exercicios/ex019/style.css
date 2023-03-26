@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+}
+body{
+    background-image: linear-gradient(to left, black, gray, steelblue) ;
+}
+
+h1#principal{
+
+    background-color: blueviolet;
+    color: wheat;
+    text-align: center;
+}
+
+.basico{
+    background-color: green;
+    color: wheat;
+
+}
+.intermediario{
+    background-color: blue;
+    color: wheat;
+
+}
+.avancado{
+    background-color: brown;
+    color: wheat;
+
+}

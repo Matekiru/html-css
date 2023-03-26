@@ -1,0 +1,42 @@
+    @charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%; */
+}
+body{
+
+    background-image: linear-gradient(to right, #144E73, #071A26);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+main{
+    font-family: 'Courier New', Courier, monospace;
+    /* A cor mais clara foi por conta do backgound color */
+    background-color: #bdccf7;
+    /*isso e a borda, tipo ele centraliza criando uma coisa a parte*/
+    border-radius: 15px;
+    /* E uma sombra kkkkk */
+    box-shadow: 10px 10px 10px #05141dc7;
+    width: 600px;
+    /*padding é tipo uma borda */
+    padding: 15px;
+    /*cria uma margem*/
+    margin:auto
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:#0D0D0D ;
+    /*  Centraliza o texto, no caso o título */
+    text-align: center;
+    text-shadow: 1px 1px 1px #071A26;
+
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: #5687A6;
+    text-shadow: 1px 1px 1px #5687a6c2;
+
+}
